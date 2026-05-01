@@ -39,3 +39,20 @@ git clone https://github.com/c2ramel/aframe-virtual-world.git
 *   **Title:** Stopping by Woods on a Snowy Evening (1923)
 *   **Author:** Robert Frost
 *   **Source:** [Poem Foundation - Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)
+
+## Recommended File Structure
+```
+aframe-virtual-world/
+├── assets/                                  # Sub-folder for all media
+│   ├── forest_model.glb                     # 3D forest assets
+│   ├── cabin.gltf                           # 3D structure assets
+│   └── snow_texture.jpg                     # Image for sky or ground
+├── scene1.html                              # Main A-Frame code
+├── README.md                                # GitHub documentation
+├── README.txt                               # Initial project notes
+├── A-Frame_Tutorial_1_Basics.pdf            # Reference material
+├── A-Frame_Tutorial_2_Adding 3D Models.pdf  # Reference material
+└── deliverables/                            # Folder for final submission items
+    ├── Project_Report.pdf                   # 2-page design report
+    └── Walkthrough_Video.mp4                # 90-second screen capture
+```
