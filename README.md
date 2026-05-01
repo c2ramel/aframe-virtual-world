@@ -1,34 +1,47 @@
-# Poem: Imagined, Interpreted, and Interactive — [Insert Poem Title]
+# Poem: Imagined, Interpreted, and Interactive — [Insert Poem Title Here]
 
 ## Project Overview
-[cite_start]This project is an interactive 3D virtual reality scene built using **A-Frame (WebVR)** for the Virtual World Design and Research course at National Cheng Kung University[cite: 3, 5, 233]. [cite_start]Our team has re-imagined the poem "[Insert Poem Title]" by [Insert Poet's Name] into a virtual space, focusing on its imagery, emotion, and atmosphere.
+This project is an interactive 3D virtual environment built using **A-Frame (WebVR)** for the *Virtual World Design and Research* course at National Cheng Kung University. 
 
-## Team: [Insert Team Name]
-* [Member 1 Name] - [Contribution, e.g., 3D Modeling]
-* [Member 2 Name] - [Contribution, e.g., A-Frame Scripting]
-* [Member 3 Name] - [Contribution, e.g., Report & Documentation]
-* [Member 4 Name] - [Contribution, e.g., Video Production]
+Our team has re-imagined the poem **"[Insert Poem Title]"** by **[Insert Poet's Name]** as an interactive virtual world. This scene transforms the poem's description, emotion, and atmosphere into a 3D space that reflects our team's interpretation of the text.
 
-## How to Run Locally
-[cite_start]Since this project requires a local server to render 3D models correctly, follow these steps[cite: 164, 170]:
+## The Team
+*   **[Name 1]** - Role/Contribution
+*   **[Name 2]** - Role/Contribution
+*   **[Name 3]** - Role/Contribution
+*   **[Name 4]** - Role/Contribution
+
+## How to Run the Project
+To view the scene correctly with all 3D models and textures, you must run it through a local server.
 
 1.  **Clone the Repository:**
-    `git clone https://github.com/[your-username]/[repo-name].git`
-2.  **Open in VS Code:**
-    Open the project folder in Visual Studio Code[cite: 174].
-3.  **Install Live Server:**
-    Ensure the **Live Server** extension (by Ritwick Dey) is installed[cite: 176].
-4.  **Launch:**
-    Right-click `index.html` and select **"Open with Live Server"**[cite: 193].
-5.  **Navigation:**
-    * **WASD keys** to move around the scene[cite: 75, 121].
-    * **Click and drag** the mouse to look around[cite: 74, 120].
+    ```bash
+    git clone [https://github.com/c2ramel/aframe-virtual-world.git](https://github.com/c2ramel/aframe-virtual-world.git)
+    ```
+2.  **Open in VS Code:** Launch Visual Studio Code and open the project folder.
+3.  **Launch Live Server:** 
+    *   Ensure the **Live Server** extension (by Ritwick Dey) is installed.
+    *   Right-click `scene1.html` and select **"Open with Live Server"**.
+    *   Your browser will open to `http://127.0.0.1:5500/scene1.html`.
 
-## Project Deliverables
-* [cite_start]**Scene Files:** Full HTML and asset directory (GLB/GLTF models)[cite: 157, 247].
-* [cite_start]**Final Report:** A 2-page PDF detailing the interpretation and design[cite: 253].
-* [cite_start]**Walkthrough Video:** A 90-second screen capture of the interactive experience[cite: 258].
+## Controls
+*   **Move:** Use the **W, A, S, D** keys to navigate through the poem's world.
+*   **Look Around:** **Click and drag** your mouse to change your perspective.
+*   **VR Mode:** Click the VR icon in the bottom right corner if using a compatible headset.
 
-## Attribution
-* [cite_start]**Poem Source:** [Insert Link to Poem/Wikipedia][cite: 256].
-* [cite_start]**Assets:** [List any free 3D models downloaded from SketchFab/TurboSquid][cite: 155].
+## Project Structure & Resources
+This project was developed using the following course materials as a foundation:
+*   `A-Frame_Tutorial_1_Basics.pdf`: Guide for primitive shapes and environment setup.
+*   `A-Frame_Tutorial_2_Adding 3D Models.pdf`: Instructions for importing GLTF/GLB models.
+*   `scene1.html`: The core A-Frame source code.
+*   `README.txt`: Initial project notes and setup.
+
+## Deliverables
+*   **Scene Files:** All HTML and 3D asset files.
+*   **Project Report:** A 2-page PDF detailing our team members, a description of the scene, and a link to the original poem.
+*   **Walkthrough Video:** A 90-second screen recording showcasing the interactive elements and interpretation.
+
+## Original Poem Reference
+*   **Title:** [Poem Title]
+*   **Author:** [Author Name]
+*   **Source:** [Link to Poem/Wikipedia]
