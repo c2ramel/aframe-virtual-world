@@ -26,9 +26,8 @@ git clone https://github.com/c2ramel/aframe-virtual-world.git
     *   The world will launch at `http://127.0.0.1:5500/scene1.html`.
 
 ## Interaction & Controls
-*   **Movement:** Use the **W, A, S, D** keys to walk through the snowy forest.
-*   **Perspective:** **Click and drag** the mouse to look around at the woods and the frozen lake.
-*   **Navigation Guide:** Follow the path to find the "promises" hidden within the scene.
+*   **Movement:** Use the **W, A, S, D** keys to move the camera.
+*   **Perspective:** **Click and drag** the mouse to pan the camera.
 
 ## Deliverables
 - [ ] **Scene Files:** Complete HTML and GLB/GLTF assets.
