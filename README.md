@@ -6,10 +6,10 @@ This project is an interactive 3D virtual environment built using **A-Frame (Web
 Our team has re-imagined Robert Frost’s 1923 poem, **"Stopping by Woods on a Snowy Evening,"** as an immersive virtual world. 
 
 ## The Team
-*   **[Member 1 Name]** - Role / Collaboration
-*   **[Member 2 Name]** - Role / Collaboration
-*   **[Member 3 Name]** - Role / Collaboration
-*   **[Member 4 Name]** - Role / Collaboration
+*   **Jasper** - Role / Collaboration
+*   **Tim** - Role / Collaboration
+*   **Victor** - Role / Collaboration
+*   **Alex** - Role / Collaboration
 
 ## How to Run the Project
 To ensure all 3D models and textures load correctly, the project must be served through a local server.
