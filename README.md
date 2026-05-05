@@ -6,10 +6,10 @@ This project is an interactive 3D virtual environment built using **A-Frame (Web
 Our team has re-imagined Robert Frost’s 1923 poem, **"Stopping by Woods on a Snowy Evening,"** as an immersive virtual world. 
 
 ## The Team
-*   **Jasper** - Role / Collaboration
-*   **Tim** - Role / Collaboration
-*   **Victor** - Role / Collaboration
-*   **Alex** - Role / Collaboration
+*   **Jasper** - Github Repo Management
+*   **Tim** - Scene Development & Coding
+*   **Victor** - 3D Models Scouting & Report
+*   **Alex** - Report & Walkthrough Video
 
 ## How to Run the Project
 To ensure all 3D models and textures load correctly, the project must be served through a local server.
@@ -30,7 +30,7 @@ git clone https://github.com/c2ramel/aframe-virtual-world.git
 *   **Perspective:** **Click and drag** the mouse to pan the camera.
 
 ## Deliverables
-- [ ] **Scene Files:** Complete HTML and GLB/GLTF assets.
+- [x] **Scene Files:** Complete HTML and GLB/GLTF assets.
 - [ ] **Report:** 2-page PDF including team details, scene screenshots, and poem interpretation.
 - [ ] **Walkthrough:** 90-second video demonstrating the interactive atmosphere.
 
