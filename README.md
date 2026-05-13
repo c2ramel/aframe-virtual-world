@@ -31,8 +31,8 @@ git clone https://github.com/c2ramel/aframe-virtual-world.git
 
 ## Deliverables
 - [x] **Scene Files:** Complete HTML and GLB/GLTF assets.
-- [ ] **Report:** 2-page PDF including team details, scene screenshots, and poem interpretation.
-- [ ] **Walkthrough:** 90-second video demonstrating the interactive atmosphere.
+- [x] **Report:** 2-page PDF including team details, scene screenshots, and poem interpretation.
+- [x] **Walkthrough:** 90-second video demonstrating the interactive atmosphere.
 
 ## Original Poem Reference
 *   **Title:** Stopping by Woods on a Snowy Evening (1923)
